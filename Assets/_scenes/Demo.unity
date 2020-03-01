@@ -1787,6 +1787,7 @@ MonoBehaviour:
   OneBombIsNearColor: {r: 0.022739422, g: 0.57975847, b: 0.6886792, a: 1}
   TwoBombsAreNearColor: {r: 0.022739422, g: 0.6886792, b: 0.16779676, a: 1}
   ThreeBombsAreNearColor: {r: 0.7372549, g: 0.27364266, b: 0.086274505, a: 1}
+  Cell: {fileID: 6536432415088769401, guid: 4bc7a056637ebb34c9db022ddd6244b5, type: 3}
 --- !u!114 &1804814978
 MonoBehaviour:
   m_ObjectHideFlags: 0
