@@ -11,12 +11,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_scripts/TitleScreen.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_scripts/BoardController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/_scripts/BoardController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_scripts/TitleScreen.cs" />
       </list>
     </option>
   </component>
@@ -76,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583028679979</updated>
       <workItem from="1583028689079" duration="2467000" />
+      <workItem from="1583457027200" duration="788000" />
     </task>
     <servers />
   </component>
